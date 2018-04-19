@@ -1,0 +1,9 @@
+﻿  TitleScene.cpp
+c:\users\s172160\desktop\test2\test2\game\titlescene\titlescene.cpp(2): fatal error C1083: include ファイルを開けません。'WICTextureLoader.h':No such file or directory
+  StartScene.cpp
+c:\users\s172160\desktop\test2\test2\game\titlescene\titlescene.h(3): fatal error C1083: include ファイルを開けません。'Keyboard.h':No such file or directory
+  InputManager.cpp
+c:\users\s172160\desktop\test2\test2\game\inputmanager.h(3): fatal error C1083: include ファイルを開けません。'Mouse.h':No such file or directory
+  DrawManager.cpp
+c:\users\s172160\desktop\test2\test2\game\drawmanager.cpp(1): fatal error C1083: include ファイルを開けません。'CommonStates.h':No such file or directory
+  コードを生成中...
